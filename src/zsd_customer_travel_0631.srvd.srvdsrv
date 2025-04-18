@@ -1,0 +1,4 @@
+@EndUserText.label: 'Business Services'
+define service ZSD_CUSTOMER_TRAVEL_0631 {
+  expose Z_C_CUSTOMER_TRAVEL_0631 as CustomerTravel;
+}
